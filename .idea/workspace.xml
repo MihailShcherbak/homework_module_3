@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a36e5238-c328-4300-8dc6-270c90ef5254" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/homework_module_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_3_1.py" afterDir="false" />
+    <list default="true" id="a36e5238-c328-4300-8dc6-270c90ef5254" name="Changes" comment="Module_3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MihailShcherbak"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MihailShcherbak/homework_module_3.git",
+    "accountId": "8f39d9cf-769e-4d0f-9334-6033ff8cff4b"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -39,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.module_3_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -59,6 +67,44 @@
       <option name="presentableId" value="Default" />
       <updated>1733347588220</updated>
     </task>
+    <task id="LOCAL-00001" summary="Module 3">
+      <option name="closed" value="true" />
+      <created>1733350248270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733350248271</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Module 3">
+      <option name="closed" value="true" />
+      <created>1733350293852</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733350293852</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Module_3">
+      <option name="closed" value="true" />
+      <created>1733350334775</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733350334775</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Module_3">
+      <option name="closed" value="true" />
+      <created>1733350617950</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733350617950</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Module 3" />
+    <MESSAGE value="Module_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module_3" />
   </component>
 </project>
