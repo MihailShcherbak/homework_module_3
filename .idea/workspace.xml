@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a36e5238-c328-4300-8dc6-270c90ef5254" name="Changes" comment="Module_3&#10;05.12.2024" />
+    <list default="true" id="a36e5238-c328-4300-8dc6-270c90ef5254" name="Changes" comment="Module_3&#10;06.12.2024&#10;Переделал">
+      <change afterPath="$PROJECT_DIR$/module_3_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "MihailShcherbak"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MihailShcherbak&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MihailShcherbak/homework_module_3.git",
-    "accountId": "8f39d9cf-769e-4d0f-9334-6033ff8cff4b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MihailShcherbak/homework_module_3.git&quot;,
+    &quot;accountId&quot;: &quot;8f39d9cf-769e-4d0f-9334-6033ff8cff4b&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2pljWUWMusp6XpxjsMYFX1p2a2j" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,6 +49,8 @@
     "Python.module_3_1.executor": "Run",
     "Python.module_3_2.executor": "Run",
     "Python.module_3_3.executor": "Run",
+    "Python.module_3_4.executor": "Run",
+    "Python.module_3_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -53,7 +58,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
       </set>
     </attachedChunks>
   </component>
@@ -122,13 +127,30 @@
       <option name="project" value="LOCAL" />
       <updated>1733436879972</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Module_3&#10;05.12.2024">
+      <option name="closed" value="true" />
+      <created>1733439177104</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733439177104</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Module_3&#10;06.12.2024&#10;Переделал">
+      <option name="closed" value="true" />
+      <created>1733475479747</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733475479747</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Module 3" />
     <MESSAGE value="Module_3" />
     <MESSAGE value="Module_3&#10;05.12.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module_3&#10;05.12.2024" />
+    <MESSAGE value="Module_3&#10;06.12.2024&#10;Переделал" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module_3&#10;06.12.2024&#10;Переделал" />
   </component>
 </project>
