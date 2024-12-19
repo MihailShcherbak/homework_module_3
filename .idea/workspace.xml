@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a36e5238-c328-4300-8dc6-270c90ef5254" name="Changes" comment="Module_3&#10;06.12.2024&#10;Переделал">
-      <change afterPath="$PROJECT_DIR$/module_3_5.py" afterDir="false" />
+    <list default="true" id="a36e5238-c328-4300-8dc6-270c90ef5254" name="Changes" comment="Module_3&#10;09.12.2024">
+      <change afterPath="$PROJECT_DIR$/Calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,17 +44,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.module_3_1.executor": "Run",
-    "Python.module_3_2.executor": "Run",
-    "Python.module_3_3.executor": "Run",
-    "Python.module_3_4.executor": "Run",
-    "Python.module_3_5.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_6.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework_module_3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Calculator" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -143,7 +174,55 @@
       <option name="project" value="LOCAL" />
       <updated>1733475479747</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Module_3&#10;06.12.2024">
+      <option name="closed" value="true" />
+      <created>1733481272671</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733481272671</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Module_3&#10;09.12.2024&#10;Ещё раз переделал">
+      <option name="closed" value="true" />
+      <created>1733751843660</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733751843660</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Module_3&#10;09.12.2024&#10;Переделал">
+      <option name="closed" value="true" />
+      <created>1733759927772</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1733759927772</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Module_3&#10;09.12.2024&#10;Переделал">
+      <option name="closed" value="true" />
+      <created>1733760279588</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1733760279588</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Module_3&#10;09.12.2024">
+      <option name="closed" value="true" />
+      <created>1733773307309</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1733773307309</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Module_3&#10;09.12.2024">
+      <option name="closed" value="true" />
+      <created>1733826385819</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1733826385819</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -151,6 +230,26 @@
     <MESSAGE value="Module_3" />
     <MESSAGE value="Module_3&#10;05.12.2024" />
     <MESSAGE value="Module_3&#10;06.12.2024&#10;Переделал" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module_3&#10;06.12.2024&#10;Переделал" />
+    <MESSAGE value="Module_3&#10;06.12.2024" />
+    <MESSAGE value="Module_3&#10;09.12.2024&#10;Ещё раз переделал" />
+    <MESSAGE value="Module_3&#10;09.12.2024&#10;Переделал" />
+    <MESSAGE value="Module_3&#10;09.12.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module_3&#10;09.12.2024" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_3_6.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_3_6.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
